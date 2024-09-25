@@ -17,7 +17,7 @@ I’m currently learning advanced front-end development, including modern JavaSc
 
 ## 📫 How to Reach Me
 - [Email](mailto:prathoseraaj0312@gmail.com)
-- [LinkedIn]((https://www.linkedin.com/in/prathoseraaj-v-10b5972a4))
+- [LinkedIn](https://www.linkedin.com/in/prathoseraaj-v-10b5972a4)
 - [Instagram](https://www.instagram.com/prathose_10_/)
 
 ## ⚡ Fun Fact
